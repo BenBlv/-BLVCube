@@ -2,21 +2,29 @@
 
 ## Why Choose the BLV mgn Cube?
 
-### 🚀 Superior Performance
-- **High Precision Construction**: A rigid aluminum frame ensures minimal vibrations, delivering top-tier print quality. The CoreXY motion system provides smooth and efficient movement.
-- **MGN Linear Rails**: High-quality linear rails for ultra-smooth and accurate operation.
-  
-### 🔧 Customizability & Scalability
-- **Flexible Design**: Easily customize and scale your printer to match specific needs. Upgrade components seamlessly and tailor the printer to your projects.
-- **Large Build Volume**: Adaptable design to support various build volumes, suitable for everything from intricate models to large functional parts.
+- ### Fast, reliable, accurate ###
+The linear bearing and Delrin Wheel Gantry are commonly used at most of the low-mid 3d printers as a cheaper solution for linear motion. Well, yeah… it's cheaper; but at the expense of accuracy and reliability. Linear guided rails (MGN rails) increase the overall rigidity, precision and are much smoother than linear bearing or Delrin. Reducing print time without compromising on print quality. There seems to be a good reason why they are commonly found in high-end 3D printers. So, when I found cheap Chinese MGN rails at Aliexpress, I thought to myself why not?
 
-### 🔍 Ease of Maintenance & Upgrades
-- **Tool-Free Access**: Simplifies upgrades and maintenance.
-- **Wide Compatibility**: Works with multiple extruders, heated beds, and add-ons, offering full control over your setup.
+- ### Rigid open structure ###
+I focused my efforts on designing an open front structure that will be rigid as a cubic structure but will also allow easy access to your build plate and prints. The design includes a front belt tensioner to make it even more convenient. It came after spending tons of hours of software simulations and physical stress tests.
 
-### 🌍 Community Support
-- **Strong Open-Source Community**: Benefit from shared resources, tutorials, and innovations driven by the community.
+- ### Accessible ###
+All the parts are easy to source, print or craft. You will not find in the BOM a specially machined expensive CNC parts or parts that are hard to get - and if you do it will be surprisingly cheap. Most of the parts are printed or can be bought online / locally. Notice that you can use your own electronics - as long as you have the knowledge to adjust the FW to the build.
 
+- ### Open Source ###
+You don't need to ask for the original CAD files, since I already included them inside the project folder. I admire this community and believe that sharing is the main key in order to make this project even better. Feel free to download the CAD files (Step file) and modify, add, remix or improve it as you like. I would appreciate it if you could share it with this awesome community and mark the remixed parts as "remixed", linked to this project page.
+
+- ### Build and print ###
+I spent many hours adjusting the Firmware to this 3D printer and fine-tuning the best slicing profile (in Simplify3D) for it. After building this printer you will only need to upload the config files, load your slicing profile and you are good to go.
+
+- ### More modular ###
+The design is more flexible than you think. The printed parts and structure are designed to be modular. Both the Z height of the printer and the build plate can be increased in size. All you need to purchase is a bigger aluminum profile and MGN rails. The provided CAD file will assist you to calculate the right measurements for your customized "BLV MGN Cube" 3D printer.
+
+- ### Easy to build? ###
+To be honest, the installation of the rails will take 70% of the build time. you will have to be accurate and spend a few hours aligning the rails, but boy.. the joy you will feel when it prints, will be worth every minute you spent installing them. To make it easy on you, I made instructive 3D animation videos, Information PDF, sketches and measurements.
+
+- ### balanced budget ###
+The cost was important, therefore the BOM is balanced to give you the best money-value ratio, without compromising on quality. You will find the best 32bit board a 3D printer can have. Excellent stepper motors, sensors etc. You choose if you want to have a 5" PanelDue touch screen or save 80$ and use your smatphone or Tablet screen without losing any features.
 
 Ready to get started? Learn more about the design and features in the next sections!
 
