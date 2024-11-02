@@ -8,22 +8,24 @@ To build the printer, you need mechanical and electrical parts prepared in advan
 
 ---
 
-## BOM Menu
+## Main Parts
+### Should You Get the Official METAL KIT or Print All the Parts?
 
-- [Frame](#frame)
-- [Motion system](#motion-system)
-- [Main Electronics](#main-electronics)
-- [Mechanics](#mechanics-and-more)
-- [Screws](#screws)
-- [Panels](#panels)
-- [Optional](#optional)
-- [Tools](#tools)
-- [Useful links](#useful-links)
+Many components of the printer need to be 3D-printed. While printing the parts yourself can save you money, it requires significant time and skill. After the project's release, I introduced the "BLV METAL KIT" — a high-quality aluminum kit that replaces most of the printed parts. The aluminum kit offers several benefits, including enhanced strength, reliability, and precision. Clearly, the "BLV METAL KIT" is the recommended option.
 
----
+|                                | **Getting the BLV Metal KIT**               | **3D Print my own BLV parts**            |
+|--------------------------------|---------------------------------------------|------------------------------------------|
+| **Advantages**                 | Ready to install                          | Cheap                                  |
+|                                | 10 times more rigid than printed parts    | Optimal for remix                      |
+|                                | Accurate                                  |                                          |
+| **Disadvantages**              | Not as cheap as printed parts             | Needs post-processing                  |
+|                                | Shipping time                             | Less rigid                             |
+|                                |                                             | Elastic                                |
+|                                |                                             | Printing takes a long time             |
 
-## FRAME
 
+
+## Frame
 ### Which Frame Should I Get and From Where?
 
 Buying from a local store is cheaper, but I released a new upgraded "BLV blind Joints" frame that saves 70% assembly time, is more stable, and accurate.
