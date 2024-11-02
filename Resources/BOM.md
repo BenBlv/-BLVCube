@@ -1,3 +1,7 @@
+### Navigation
+[Overview](Resources/Overview.md) | [Start](Resources/Start.md) | [Bill of Materials (BOM)](Resources/BOM.md) | [Download & Print](Resources/Download_&_Print.md) | [Assembly Guide](Resources/Assembly_Guide.md) | [Wiring](Resources/Wiring.md) | [Calibrations](Resources/Calibrations.md) | [Community Remixes](Resources/Remixes.md) | [License](#license)
+
+
 # BOM | BILL OF MATERIALS
 
 To build the printer, you need mechanical and electrical parts prepared in advance, along with parts designed for the BLV mgn Cube 3D printer. This section provides guidance on where to acquire the required parts. I have personally checked and organized the information optimally for you.
