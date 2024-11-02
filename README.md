@@ -1,4 +1,4 @@
-# BLV mgn Cube 3D Printer
+# BLV Cube 3D Printer
 
 ![BLV mgn Cube](link-to-your-image.jpg)
 
