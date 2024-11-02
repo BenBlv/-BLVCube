@@ -2,11 +2,9 @@
 
 ## Why Choose the BLV mgn Cube?
 
-- ### Fast, reliable, accurate ###
-The linear bearing and Delrin Wheel Gantry are commonly used at most of the low-mid 3d printers as a cheaper solution for linear motion. Well, yeah… it's cheaper; but at the expense of accuracy and reliability. Linear guided rails (MGN rails) increase the overall rigidity, precision and are much smoother than linear bearing or Delrin. Reducing print time without compromising on print quality. There seems to be a good reason why they are commonly found in high-end 3D printers. So, when I found cheap Chinese MGN rails at Aliexpress, I thought to myself why not?
+- ### Fast, reliable, accurate ### The linear bearing and Delrin Wheel Gantry are commonly used at most of the low-mid 3d printers as a cheaper solution for linear motion. Well, yeah… it's cheaper; but at the expense of accuracy and reliability. Linear guided rails (MGN rails) increase the overall rigidity, precision and are much smoother than linear bearing or Delrin. Reducing print time without compromising on print quality. There seems to be a good reason why they are commonly found in high-end 3D printers. So, when I found cheap Chinese MGN rails at Aliexpress, I thought to myself why not?
 
-- ### Rigid open structure ###
-I focused my efforts on designing an open front structure that will be rigid as a cubic structure but will also allow easy access to your build plate and prints. The design includes a front belt tensioner to make it even more convenient. It came after spending tons of hours of software simulations and physical stress tests.
+- ### Rigid open structure ### I focused my efforts on designing an open front structure that will be rigid as a cubic structure but will also allow easy access to your build plate and prints. The design includes a front belt tensioner to make it even more convenient. It came after spending tons of hours of software simulations and physical stress tests.
 
 - ### Accessible ###
 All the parts are easy to source, print or craft. You will not find in the BOM a specially machined expensive CNC parts or parts that are hard to get - and if you do it will be surprisingly cheap. Most of the parts are printed or can be bought online / locally. Notice that you can use your own electronics - as long as you have the knowledge to adjust the FW to the build.
