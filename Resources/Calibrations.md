@@ -1,3 +1,7 @@
+### Navigation
+[Overview](Resources/Overview.md) | [Start](Resources/Start.md) | [Bill of Materials (BOM)](Resources/BOM.md) | [Download & Print](Resources/Download_&_Print.md) | [Assembly Guide](Resources/Assembly_Guide.md) | [Wiring](Resources/Wiring.md) | [Calibrations](Resources/Calibrations.md) | [Community Remixes](Resources/Remixes.md) | [License](#license)
+
+
 # CALIBRATIONS
 
 This is the calibration step. Before starting the calibration process, ensure the appropriate firmware is installed on your Duet board. The Duet board initially ran Reprap 2.x.x when the project was released but has since been upgraded to Duet 3 running Reprap firmware v3.x.x. If you are still using the Duet 2 WiFi board, check out David Husolo’s GitHub for a well-calibrated configuration file for both Duet 2 WiFi and Duet 3 running Reprap 3.x.x.
