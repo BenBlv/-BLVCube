@@ -5,14 +5,14 @@
 Welcome to the official GitHub repository for the **BLV mgn Cube**! The BLV mgn Cube is a robust and customizable 3D printer, built using high-quality aluminum extrusions and linear rails, designed for reliability and high performance.
 
 ## Table of Contents
-- [Overview](Overview.md)
-- [Start](Start.md)
-- [Bill of Materials (BOM)](BOM.md)
-- [Download & Print](Download_&_Print.md)
-- [Assembly Guide](Assembly_Guide.md)
-- [Wiring](Wiring.md)
-- [Calibrations](Calibrations.md)
-- [Community Remixes](Remixes.md)
+- [Overview](Resources/Overview.md)
+- [Start](Resources/Start.md)
+- [Bill of Materials (BOM)](Resources/BOM.md)
+- [Download & Print](Resources/Download_&_Print.md)
+- [Assembly Guide](Resources/Assembly_Guide.md)
+- [Wiring](Resources/Wiring.md)
+- [Calibrations](Resources/Calibrations.md)
+- [Community Remixes](Resources/Remixes.md)
 - [License](#license)
 
 ## Overview
