@@ -37,7 +37,6 @@ Which Frame Should I Get and From Where?
 
 
 ## Frame Components
-
 - **[9 x 2040 Aluminum Extrusions (Wide Beams)](#):** 496mm each
 - **[3 x 2020 Aluminum Extrusions (Auxiliary Wide Beams)](#):** 576mm each
 - **[4 x 2040 Aluminum Extrusions (Corner Height Beams)](#):** 560mm each
@@ -50,24 +49,25 @@ Which Frame Should I Get and From Where?
   - **[Ender 3 Bed](#):** 106mm
 
 
-### X-Axis Options
 
+### X-Axis Options
 - **[1 x 2020 Aluminum Extrusion](#):** 460mm
 - **[OR Upgraded Lightweight Carbon Fiber (X-Axis)](#)**
 - **[OR Upgraded Aluminum Alloy CNC-Cut X-Axis Tube](#):** 460mm
 
 
-### Optional: Frame Reinforcement for Taller Z-Axis Builds (465mm+)
 
+### Optional: Frame Reinforcement for Taller Z-Axis Builds (465mm+)
 - **[1 x 2020 Aluminum Extrusion](#):** 496mm
 - **[4 x Aluminum 2020 Brackets (20x20 / 20x17)](#)**
 
 
-### Triple Z-Axis Magnetic System
 
+### Triple Z-Axis Magnetic System
 Based on work by BLV community member Druce Taylor (non-official add-on)
 
 - **[3-Point Bed Leveling (Triple Z)](#):** MJF with embedded parts
+
 
 
 ### Important Notes
