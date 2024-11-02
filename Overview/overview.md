@@ -33,6 +33,25 @@ Ready to get started? Learn more about the design and features in the next secti
 
 ## Features
 
+## Features
+
+| Feature                                                   | Feature                                                    |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
+| Support RepRap and Klipper Firmware                       | Input Shaper - Klipper                                     |
+| Super fast printing: 9000 Acceleration, 500mm/s - Klipper | Efficient cooling system                                   |
+| SuperSlicer full profile + Simplify3D slicing profile     | HEPA/Carbon air scrubber                                   |
+| Rigid Aluminum Open Front Frame                           | Option for Dual Extrusion                                  |
+| Front belts tensioner                                     | Mesh Auto-Leveling                                         |
+| Internal LED light                                        | Blind joints frame - Fast assembly                         |
+| Many community remixes and upgrades                       | Linear rails MGN12H for high accuracy                      |
+| Full firmware configs included                            | High-resolution X/Y stepper motors                         |
+| Bed: 300 x 300mm, Height: 365/465/565mm                   | DuetWifi / Duet 3 / Fysetc Spider v2.2 (Klipper)           |
+| Support HV5160 high-voltage 48V drivers                   | Full web interface via smartphone/tablet/desktop           |
+| Electronics at the back                                   | Clean and elegant design                                   |
+| CNC aluminum machined parts - Metal kit                   | Open-source design CAD file is available                   |
+| Triple Z - true bed leveling                              | Huge community                                             |
+
+
 ### Key Components
 - **🛠️ Robust Aluminum Frame**: Reduces vibrations, ensuring maximum print accuracy.
 - **🚂 MGN Linear Rails**: High-quality, smooth motion system for consistent, reliable prints.
