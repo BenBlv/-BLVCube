@@ -33,9 +33,6 @@ Ready to get started? Learn more about the design and features in the next secti
 
 ## Features
 
-## Features
-
-| Feature                                                   | Feature                                                    |
 | --------------------------------------------------------- | ---------------------------------------------------------- |
 | Support RepRap and Klipper Firmware                       | Input Shaper - Klipper                                     |
 | Super fast printing: 9000 Acceleration, 500mm/s - Klipper | Efficient cooling system                                   |
