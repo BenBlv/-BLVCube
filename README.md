@@ -7,12 +7,12 @@ Welcome to the official GitHub repository for the **BLV mgn Cube**! The BLV mgn 
 ## Table of Contents
 - [Overview](Overview.md)
 - [Start](Start.md)
-- [Download and Print](Download and Print.md)
-- [Getting Started](#getting-started)
-- [Assembly Guide](#assembly-guide)
-- [Bill of Materials (BOM)](#bill-of-materials-bom)
-- [Firmware](#firmware)
-- [Community and Support](#community-and-support)
+- [Bill of Materials (BOM)](BOM.md)
+- [Download & Print](Download_&_Print.md)
+- [Assembly Guide](Assembly_Guide.md)
+- [Wiring](Wiring.md)
+- [Calibrations](Calibrations.md)
+- [Community Remixes](Remixes.md)
 - [License](#license)
 
 ## Overview
