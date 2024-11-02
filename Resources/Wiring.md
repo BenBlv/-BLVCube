@@ -1,3 +1,7 @@
+### Navigation
+[Overview](Resources/Overview.md) | [Start](Resources/Start.md) | [Bill of Materials (BOM)](Resources/BOM.md) | [Download & Print](Resources/Download_&_Print.md) | [Assembly Guide](Resources/Assembly_Guide.md) | [Wiring](Resources/Wiring.md) | [Calibrations](Resources/Calibrations.md) | [Community Remixes](Resources/Remixes.md) | [License](#license)
+
+
 # WIRING
 
 At this stage, we will install all the necessary wiring. This step is critical, and you must double-check each wire you install. The process can take around 3 hours or more, depending on your setup. If you have the FYSETC kit, the wiring process should only take about an hour due to its optimized wiring diagram and pre-arranged, labeled, and plug-ready cables.
