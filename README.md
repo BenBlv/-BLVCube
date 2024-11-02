@@ -1,22 +1,11 @@
-### Navigation
-[Overview](Resources/Overview.md) | [Start](Resources/Start.md) | [Bill of Materials (BOM)](Resources/BOM.md) | [Download & Print](Resources/Download_&_Print.md) | [Assembly Guide](Resources/Assembly_Guide.md) | [Wiring](Resources/Wiring.md) | [Calibrations](Resources/Calibrations.md) | [Community Remixes](Resources/Remixes.md) | [License](#license)
-
 # BLV Cube 3D Printer
 
 ![BLV mgn Cube](link-to-your-image.jpg)
 
 Welcome to the official GitHub repository for the **BLV mgn Cube**! The BLV mgn Cube is a robust and customizable 3D printer, built using high-quality aluminum extrusions and linear rails, designed for reliability and high performance.
 
-## Table of Contents
-- [Overview](Resources/Overview.md)
-- [Start](Resources/Start.md)
-- [Bill of Materials (BOM)](Resources/BOM.md)
-- [Download & Print](Resources/Download_&_Print.md)
-- [Assembly Guide](Resources/Assembly_Guide.md)
-- [Wiring](Resources/Wiring.md)
-- [Calibrations](Resources/Calibrations.md)
-- [Community Remixes](Resources/Remixes.md)
-- [License](#license)
+### Navigation
+[Overview](Resources/Overview.md) | [Start](Resources/Start.md) | [Bill of Materials (BOM)](Resources/BOM.md) | [Download & Print](Resources/Download_&_Print.md) | [Assembly Guide](Resources/Assembly_Guide.md) | [Wiring](Resources/Wiring.md) | [Calibrations](Resources/Calibrations.md) | [Community Remixes](Resources/Remixes.md) | [License](#license)
 
 ## Overview
 The BLV mgn Cube is a fully open-source project aimed at providing makers with a professional-grade 3D printer. Its modular design allows for easy upgrades and customization.
