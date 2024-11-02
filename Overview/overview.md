@@ -33,6 +33,10 @@ Ready to get started? Learn more about the design and features in the next secti
 
 ## Features
 
+## Features
+
+|                                                    |                                                     |
+| --------------------------------------------------------- | ---------------------------------------------------------- |
 | Support RepRap and Klipper Firmware                       | Input Shaper - Klipper                                     |
 | Super fast printing: 9000 Acceleration, 500mm/s - Klipper | Efficient cooling system                                   |
 | SuperSlicer full profile + Simplify3D slicing profile     | HEPA/Carbon air scrubber                                   |
@@ -46,6 +50,7 @@ Ready to get started? Learn more about the design and features in the next secti
 | Electronics at the back                                   | Clean and elegant design                                   |
 | CNC aluminum machined parts - Metal kit                   | Open-source design CAD file is available                   |
 | Triple Z - true bed leveling                              | Huge community                                             |
+
 
 
 ### Key Components
