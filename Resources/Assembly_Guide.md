@@ -1,3 +1,7 @@
+### Navigation
+[Overview](Resources/Overview.md) | [Start](Resources/Start.md) | [Bill of Materials (BOM)](Resources/BOM.md) | [Download & Print](Resources/Download_&_Print.md) | [Assembly Guide](Resources/Assembly_Guide.md) | [Wiring](Resources/Wiring.md) | [Calibrations](Resources/Calibrations.md) | [Community Remixes](Resources/Remixes.md) | [License](#license)
+
+
 # ASSEMBLY GUIDE
 
 Well done! At this stage, you should have all the parts needed to build the printer. This is the most exciting stage, but it requires extra attention. Make sure you have the following tools at hand:
